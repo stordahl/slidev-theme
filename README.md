@@ -1,6 +1,6 @@
-# slidev-theme-stordahl-slidev-theme
+# slidev-theme-stordahl
 
-[![NPM version](https://img.shields.io/npm/v/slidev-theme-stordahl-slidev-theme?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-stordahl-slidev-theme)
+[![NPM version](https://img.shields.io/npm/v/slidev-theme-stordahl?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-stordahl)
 
 A (...) theme for [Slidev](https://github.com/slidevjs/slidev).
 
