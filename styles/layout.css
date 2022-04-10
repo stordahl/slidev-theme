@@ -4,6 +4,10 @@
   --slidev-theme-primary: #1551d8;
 }
 
+* {
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
 /* Global Styles Here */
 .slidev-layout{
   a {
